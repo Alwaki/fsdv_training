@@ -10,4 +10,4 @@ The second folder contains data visualization scripts. There is some simple extr
 1. Numpy
 2. Matplotlib
 
-To run the scripts, navigate to where they are located. Then in the terminal write <python animate.py>.
+To run the scripts, navigate to where they are located. Then in the terminal write \<python animate.py\>.
