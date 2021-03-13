@@ -6,7 +6,7 @@ This folder contains packages for a publisher and a subscriber. Moreover, png fo
 
 Exercise 2
 ----------
-The second folder contains data visualization scripts. There is some simple extra optional functionality, such as a real time implementation. The scripts also depend on the packages:
+The second folder contains data visualization scripts, and a saved picture of the plot results. There is some simple extra optional functionality, such as a real time implementation. The scripts also depend on the packages:
 1. Numpy
 2. Matplotlib
 
