@@ -10,4 +10,9 @@ The second folder contains data visualization scripts, and a saved picture of th
 1. Numpy
 2. Matplotlib
 
-To run the scripts, navigate to where they are located. Then in the terminal write \<python animate.py\>.
+To install Numpy for python (on Ubuntu), simply use
+`sudo apt install python-numpy`
+To also install Matplotlib (also for Ubuntu), use
+`sudo apt-get build-dep python-matplotlib`
+
+To subsequently run the scripts, navigate to where they are located. Then in the terminal write \<python animate.py\>.
